@@ -1,8 +1,8 @@
 /*
-› Create By Haikal
-› Base Ori Haikal
+› Create By JANSEN
+› Base Ori JANSEN
 
-🌷 KALAU MAU RENAME TARO CREDITS GUA : HW MODS WA */
+🛡 KALAU MAU RENAME TARO CREDITS GUA : JANSEN MODS */
 
 require('./hwkal')
 const { default: makeWASocket, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
@@ -69,7 +69,7 @@ async function startHaikal() {
 const haikal = makeWASocket({
 logger: pino({ level: 'silent' }),
 printQRInTerminal: true,
-browser: ['Haikal Multi Device','Safari','1.0.0'],
+browser: ['Jansen Multi Device','Safari','1.0.0'],
 auth: state})
 //=================================================//
 store.bind(haikal.ev)
@@ -153,19 +153,19 @@ ppgroup = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Ga
 if (anu.action == 'add') {
 var buffer = await getBuffer(ppuser)
 let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-he = `HELLO 👋 SELAMAT DATANG DI GROUP ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
+he = `HELLO 🤙 SELAMAT DATANG DI GROUP ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
 let link = `https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html`
 const anmsu = {
 document: fs.readFileSync('./baseikal/lib/tes.xlsx'),
 mimetype: feler,
 jpegThumbnail:buffer,
 mentions: [num],
-fileName: `HELLO 👋 @${num.split("@")[0]}`,
+fileName: `HELLO 🤙 @${num.split("@")[0]}`,
 fileLength: 99999999999999,
 caption: he,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE HW MODS WA`,
+body: `SUBSCRIBE JANSEN MODS`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -174,19 +174,19 @@ mediaUrl: link,}}}
 haikal.sendMessage(anu.id, anmsu, {quoted:fgclink})
 } else if (anu.action == 'remove') {
 let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-he = `SELAMAT TINGGAL KAWAN 👋 ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
+he = `SELAMAT TINGGAL KAWAN 🤙 ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
 let link = `https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'`
 const aalnu = {
 document: fs.readFileSync('./baseikal/lib/tes.xlsx'),
 mimetype: feler,
 jpegThumbnail:buffer,
 mentions: [num],
-fileName: `BYE 👋 @${num.split("@")[0]}`,
+fileName: `BYE 🤙 @${num.split("@")[0]}`,
 fileLength: 99999999999999,
 caption: he,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE HW MODS WA`,
+body: `SUBSCRIBE JANSEN MODS`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
