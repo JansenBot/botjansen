@@ -15,24 +15,24 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCir7aW7p5MIZSjiCi00L7Ig'
 global.ig = 'https://www.instagram.com/jansemp1000'
-global.mygc = 'wa.me/85257407530'
+global.mygc = 'wa.me/6285714170944'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
 global.linkgrupss = "https://chat.whatsapp.com/GYpQOwCSuBa37DgQn7T6TD"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'LALA BOT' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'LALA BOT' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'LALA BOT' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'JANSEN MODS' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'JANSEN MODS' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'JANSEN MODS' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['85257407530']
-global.premium = ['85257407530']
-global.packname = 'LALA BOT'
-global.ownerr = ['LALA BOT']
-global.author = 'LALA BOT'
-global.sessionName = './sessionye/jansen'
+global.owner = ['6281364399250']
+global.premium = ['6281364399250']
+global.packname = 'JANSEN MODS'
+global.ownerr = ['JANSEN MODS']
+global.author = 'JANSEN MODS'
+global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -41,7 +41,7 @@ global.mess = {
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
-    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot LALA BOT',
+    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot Jansen Mods',
 }
 //=================================================//
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
